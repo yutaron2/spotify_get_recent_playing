@@ -17,7 +17,6 @@ Before you can use this program, you must have the following:
 3. Set your Spotify Web API Client ID and Client Secret as environment variables:Alternatively, you can set these variables in your code by modifying the **`SPOTIPY_CLIENT_ID`** and **`SPOTIPY_CLIENT_SECRET`** variables in **`main.py`**.
     
     ```
-    arduinoCopy code
     export SPOTIPY_CLIENT_ID='your_client_id_here'
     export SPOTIPY_CLIENT_SECRET='your_client_secret_here'
     
